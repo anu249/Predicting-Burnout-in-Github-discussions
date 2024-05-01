@@ -10,7 +10,7 @@ The dataset used in this project can be found in the dataset powertoys_2021_10 (
 To get started with this project, follow these steps:
 
 **Clone the Repository:**
-git clone https://github.com/your_username/Predicting-Burnout-in-Github-discussions.git
+git clone https://github.com/anu249/Predicting-Burnout-in-Github-discussions.git
 
 **Download Dependencies:**
 Make sure you have Python 3.x installed along with necessary libraries. You can install the required libraries using:
